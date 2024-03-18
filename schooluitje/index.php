@@ -1,5 +1,4 @@
 <?php
-
 // Auteur Emre Bas
 
 abstract class Person {
